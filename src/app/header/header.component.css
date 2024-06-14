@@ -1,0 +1,14 @@
+.color-header{
+    background-color: rgb(85, 85, 164);
+    height: 4.20rem;
+    text-align: center;
+    position: relative;
+}
+
+.headerTitle{
+    color:white;
+    font-size: large;
+    font-weight: 800;
+    position: absolute;
+    top: 50%;
+}

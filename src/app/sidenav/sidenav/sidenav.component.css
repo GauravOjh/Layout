@@ -1,0 +1,28 @@
+.side-container{
+    width:20%;
+    background-color:lightcoral;
+    height: 82%;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    text-align: center;
+}
+
+.sidenav-text{
+    color:white;
+    font-size: large;
+    font-weight: 500;
+}
+
+.non-sidenavContainer{
+    text-align: center;
+    height:82%;
+}
+
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30rem;
+    left: 30px;
+}

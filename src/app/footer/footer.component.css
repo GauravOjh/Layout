@@ -1,0 +1,16 @@
+.footer{
+    margin-bottom: 0;
+    background-color: rgb(192, 104, 104);
+    height: 4.20rem;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left:0;
+    width:100%;
+}
+
+.footer-text{
+    color:white;
+    font-size: large;
+    font-weight: 800;
+}
